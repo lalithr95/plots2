@@ -40,6 +40,6 @@ public/sites/
 public/assets/
 production.db
 test.db
-
+*.db
 # Ignore NPM
 node_modules
